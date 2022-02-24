@@ -1,0 +1,2238 @@
+@font-face {
+    font-family: "orion";
+    src: url("./orion.eot?6290df2928b0d47e688787bdfc585940#iefix") format("embedded-opentype"),
+url("./orion.woff2?6290df2928b0d47e688787bdfc585940") format("woff2"),
+url("./orion.woff?6290df2928b0d47e688787bdfc585940") format("woff");
+}
+
+i[class^="orion-"]:before, i[class*=" orion-"]:before {
+    font-family: orion !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.orion-adobe:before {
+    content: "\f101";
+}
+.orion-adobefonts:before {
+    content: "\f102";
+}
+.orion-photoshop:before {
+    content: "\f103";
+}
+.orion-pm2:before {
+    content: "\f104";
+}
+.orion-pnpm:before {
+    content: "\f105";
+}
+.orion-pocket:before {
+    content: "\f106";
+}
+.orion-pocketcasts:before {
+    content: "\f107";
+}
+.orion-podcastaddict:before {
+    content: "\f108";
+}
+.orion-podman:before {
+    content: "\f109";
+}
+.orion-pointy:before {
+    content: "\f10a";
+}
+.orion-pokemon:before {
+    content: "\f10b";
+}
+.orion-polkadot:before {
+    content: "\f10c";
+}
+.orion-poly:before {
+    content: "\f10d";
+}
+.orion-polymerproject:before {
+    content: "\f10e";
+}
+.orion-polywork:before {
+    content: "\f10f";
+}
+.orion-popos:before {
+    content: "\f110";
+}
+.orion-porsche:before {
+    content: "\f111";
+}
+.orion-portainer:before {
+    content: "\f112";
+}
+.orion-postcss:before {
+    content: "\f113";
+}
+.orion-postgresql:before {
+    content: "\f114";
+}
+.orion-postman:before {
+    content: "\f115";
+}
+.orion-postmates:before {
+    content: "\f116";
+}
+.orion-powerapps:before {
+    content: "\f117";
+}
+.orion-powerautomate:before {
+    content: "\f118";
+}
+.orion-powerbi:before {
+    content: "\f119";
+}
+.orion-powers:before {
+    content: "\f11a";
+}
+.orion-powershell:before {
+    content: "\f11b";
+}
+.orion-powervirtualagents:before {
+    content: "\f11c";
+}
+.orion-prdotco:before {
+    content: "\f11d";
+}
+.orion-precommit:before {
+    content: "\f11e";
+}
+.orion-premierleague:before {
+    content: "\f11f";
+}
+.orion-prestashop:before {
+    content: "\f120";
+}
+.orion-presto:before {
+    content: "\f121";
+}
+.orion-prettier:before {
+    content: "\f122";
+}
+.orion-prezi:before {
+    content: "\f123";
+}
+.orion-prime:before {
+    content: "\f124";
+}
+.orion-primevideo:before {
+    content: "\f125";
+}
+.orion-prisma:before {
+    content: "\f126";
+}
+.orion-prismic:before {
+    content: "\f127";
+}
+.orion-privateinternetaccess:before {
+    content: "\f128";
+}
+.orion-probot:before {
+    content: "\f129";
+}
+.orion-processingfoundation:before {
+    content: "\f12a";
+}
+.orion-processwire:before {
+    content: "\f12b";
+}
+.orion-producthunt:before {
+    content: "\f12c";
+}
+.orion-progate:before {
+    content: "\f12d";
+}
+.orion-progress:before {
+    content: "\f12e";
+}
+.orion-prometheus:before {
+    content: "\f12f";
+}
+.orion-prosieben:before {
+    content: "\f130";
+}
+.orion-protocolsdotio:before {
+    content: "\f131";
+}
+.orion-protodotio:before {
+    content: "\f132";
+}
+.orion-protondb:before {
+    content: "\f133";
+}
+.orion-protonmail:before {
+    content: "\f134";
+}
+.orion-protonvpn:before {
+    content: "\f135";
+}
+.orion-protools:before {
+    content: "\f136";
+}
+.orion-protractor:before {
+    content: "\f137";
+}
+.orion-proxmox:before {
+    content: "\f138";
+}
+.orion-publons:before {
+    content: "\f139";
+}
+.orion-pubmed:before {
+    content: "\f13a";
+}
+.orion-pug:before {
+    content: "\f13b";
+}
+.orion-pulumi:before {
+    content: "\f13c";
+}
+.orion-puma:before {
+    content: "\f13d";
+}
+.orion-puppet:before {
+    content: "\f13e";
+}
+.orion-puppeteer:before {
+    content: "\f13f";
+}
+.orion-purescript:before {
+    content: "\f140";
+}
+.orion-purgecss:before {
+    content: "\f141";
+}
+.orion-purism:before {
+    content: "\f142";
+}
+.orion-pusher:before {
+    content: "\f143";
+}
+.orion-pwa:before {
+    content: "\f144";
+}
+.orion-pycharm:before {
+    content: "\f145";
+}
+.orion-pypi:before {
+    content: "\f146";
+}
+.orion-pypy:before {
+    content: "\f147";
+}
+.orion-pyscaffold:before {
+    content: "\f148";
+}
+.orion-pytest:before {
+    content: "\f149";
+}
+.orion-python:before {
+    content: "\f14a";
+}
+.orion-pytorch:before {
+    content: "\f14b";
+}
+.orion-pytorchlightning:before {
+    content: "\f14c";
+}
+.orion-pyup:before {
+    content: "\f14d";
+}
+.orion-qantas:before {
+    content: "\f14e";
+}
+.orion-qatarairways:before {
+    content: "\f14f";
+}
+.orion-qemu:before {
+    content: "\f150";
+}
+.orion-qgis:before {
+    content: "\f151";
+}
+.orion-qi:before {
+    content: "\f152";
+}
+.orion-qiita:before {
+    content: "\f153";
+}
+.orion-qiskit:before {
+    content: "\f154";
+}
+.orion-qiwi:before {
+    content: "\f155";
+}
+.orion-qt:before {
+    content: "\f156";
+}
+.orion-qualcomm:before {
+    content: "\f157";
+}
+.orion-qualtrics:before {
+    content: "\f158";
+}
+.orion-qualys:before {
+    content: "\f159";
+}
+.orion-quantcast:before {
+    content: "\f15a";
+}
+.orion-quantconnect:before {
+    content: "\f15b";
+}
+.orion-quarkus:before {
+    content: "\f15c";
+}
+.orion-quasar:before {
+    content: "\f15d";
+}
+.orion-qubesos:before {
+    content: "\f15e";
+}
+.orion-quest:before {
+    content: "\f15f";
+}
+.orion-quickbooks:before {
+    content: "\f160";
+}
+.orion-quicklook:before {
+    content: "\f161";
+}
+.orion-quicktime:before {
+    content: "\f162";
+}
+.orion-quip:before {
+    content: "\f163";
+}
+.orion-quora:before {
+    content: "\f164";
+}
+.orion-qwiklabs:before {
+    content: "\f165";
+}
+.orion-qzone:before {
+    content: "\f166";
+}
+.orion-r:before {
+    content: "\f167";
+}
+.orion-r3:before {
+    content: "\f168";
+}
+.orion-rabbitmq:before {
+    content: "\f169";
+}
+.orion-racket:before {
+    content: "\f16a";
+}
+.orion-radar:before {
+    content: "\f16b";
+}
+.orion-radiopublic:before {
+    content: "\f16c";
+}
+.orion-railway:before {
+    content: "\f16d";
+}
+.orion-rainmeter:before {
+    content: "\f16e";
+}
+.orion-rakuten:before {
+    content: "\f16f";
+}
+.orion-ram:before {
+    content: "\f170";
+}
+.orion-rancher:before {
+    content: "\f171";
+}
+.orion-rarible:before {
+    content: "\f172";
+}
+.orion-raspberrypi:before {
+    content: "\f173";
+}
+.orion-ray:before {
+    content: "\f174";
+}
+.orion-razer:before {
+    content: "\f175";
+}
+.orion-razorpay:before {
+    content: "\f176";
+}
+.orion-react:before {
+    content: "\f177";
+}
+.orion-reactivex:before {
+    content: "\f178";
+}
+.orion-reactos:before {
+    content: "\f179";
+}
+.orion-reactquery:before {
+    content: "\f17a";
+}
+.orion-reactrouter:before {
+    content: "\f17b";
+}
+.orion-reacttable:before {
+    content: "\f17c";
+}
+.orion-readthedocs:before {
+    content: "\f17d";
+}
+.orion-realm:before {
+    content: "\f17e";
+}
+.orion-reason:before {
+    content: "\f17f";
+}
+.orion-reasonstudios:before {
+    content: "\f180";
+}
+.orion-redbubble:before {
+    content: "\f181";
+}
+.orion-reddit:before {
+    content: "\f182";
+}
+.orion-redhat:before {
+    content: "\f183";
+}
+.orion-redhatopenshift:before {
+    content: "\f184";
+}
+.orion-redis:before {
+    content: "\f185";
+}
+.orion-redmine:before {
+    content: "\f186";
+}
+.orion-redux:before {
+    content: "\f187";
+}
+.orion-reduxsaga:before {
+    content: "\f188";
+}
+.orion-redwoodjs:before {
+    content: "\f189";
+}
+.orion-reebok:before {
+    content: "\f18a";
+}
+.orion-relianceindustrieslimited:before {
+    content: "\f18b";
+}
+.orion-renault:before {
+    content: "\f18c";
+}
+.orion-renovatebot:before {
+    content: "\f18d";
+}
+.orion-renpy:before {
+    content: "\f18e";
+}
+.orion-renren:before {
+    content: "\f18f";
+}
+.orion-replit:before {
+    content: "\f190";
+}
+.orion-republicofgamers:before {
+    content: "\f191";
+}
+.orion-rescript:before {
+    content: "\f192";
+}
+.orion-rescuetime:before {
+    content: "\f193";
+}
+.orion-researchgate:before {
+    content: "\f194";
+}
+.orion-resurrectionremixos:before {
+    content: "\f195";
+}
+.orion-retroarch:before {
+    content: "\f196";
+}
+.orion-retropie:before {
+    content: "\f197";
+}
+.orion-revealdotjs:before {
+    content: "\f198";
+}
+.orion-reverbnation:before {
+    content: "\f199";
+}
+.orion-revolut:before {
+    content: "\f19a";
+}
+.orion-revue:before {
+    content: "\f19b";
+}
+.orion-rewe:before {
+    content: "\f19c";
+}
+.orion-rezgo:before {
+    content: "\f19d";
+}
+.orion-rhinoceros:before {
+    content: "\f19e";
+}
+.orion-rider:before {
+    content: "\f19f";
+}
+.orion-rimacautomobili:before {
+    content: "\f1a0";
+}
+.orion-ring:before {
+    content: "\f1a1";
+}
+.orion-riotgames:before {
+    content: "\f1a2";
+}
+.orion-ripple:before {
+    content: "\f1a3";
+}
+.orion-riseup:before {
+    content: "\f1a4";
+}
+.orion-roamresearch:before {
+    content: "\f1a5";
+}
+.orion-roblox:before {
+    content: "\f1a6";
+}
+.orion-robotframework:before {
+    content: "\f1a7";
+}
+.orion-rocketdotchat:before {
+    content: "\f1a8";
+}
+.orion-rockylinux:before {
+    content: "\f1a9";
+}
+.orion-roku:before {
+    content: "\f1aa";
+}
+.orion-rollsroyce:before {
+    content: "\f1ab";
+}
+.orion-rollupdotjs:before {
+    content: "\f1ac";
+}
+.orion-rome:before {
+    content: "\f1ad";
+}
+.orion-roots:before {
+    content: "\f1ae";
+}
+.orion-rootsbedrock:before {
+    content: "\f1af";
+}
+.orion-rootssage:before {
+    content: "\f1b0";
+}
+.orion-ros:before {
+    content: "\f1b1";
+}
+.orion-rossmann:before {
+    content: "\f1b2";
+}
+.orion-rotaryinternational:before {
+    content: "\f1b3";
+}
+.orion-rottentomatoes:before {
+    content: "\f1b4";
+}
+.orion-roundcube:before {
+    content: "\f1b5";
+}
+.orion-rss:before {
+    content: "\f1b6";
+}
+.orion-rstudio:before {
+    content: "\f1b7";
+}
+.orion-rte:before {
+    content: "\f1b8";
+}
+.orion-rtl:before {
+    content: "\f1b9";
+}
+.orion-rtlzwei:before {
+    content: "\f1ba";
+}
+.orion-ruby:before {
+    content: "\f1bb";
+}
+.orion-rubygems:before {
+    content: "\f1bc";
+}
+.orion-rubyonrails:before {
+    content: "\f1bd";
+}
+.orion-rubysinatra:before {
+    content: "\f1be";
+}
+.orion-runkeeper:before {
+    content: "\f1bf";
+}
+.orion-runkit:before {
+    content: "\f1c0";
+}
+.orion-rust:before {
+    content: "\f1c1";
+}
+.orion-rxdb:before {
+    content: "\f1c2";
+}
+.orion-ryanair:before {
+    content: "\f1c3";
+}
+.orion-s7airlines:before {
+    content: "\f1c4";
+}
+.orion-sabanci:before {
+    content: "\f1c5";
+}
+.orion-safari:before {
+    content: "\f1c6";
+}
+.orion-sahibinden:before {
+    content: "\f1c7";
+}
+.orion-salesforce:before {
+    content: "\f1c8";
+}
+.orion-saltproject:before {
+    content: "\f1c9";
+}
+.orion-samsung:before {
+    content: "\f1ca";
+}
+.orion-samsungpay:before {
+    content: "\f1cb";
+}
+.orion-sandisk:before {
+    content: "\f1cc";
+}
+.orion-sanfranciscomunicipalrailway:before {
+    content: "\f1cd";
+}
+.orion-saopaulometro:before {
+    content: "\f1ce";
+}
+.orion-sap:before {
+    content: "\f1cf";
+}
+.orion-sass:before {
+    content: "\f1d0";
+}
+.orion-sat1:before {
+    content: "\f1d1";
+}
+.orion-saturn:before {
+    content: "\f1d2";
+}
+.orion-saucelabs:before {
+    content: "\f1d3";
+}
+.orion-scala:before {
+    content: "\f1d4";
+}
+.orion-scaleway:before {
+    content: "\f1d5";
+}
+.orion-scania:before {
+    content: "\f1d6";
+}
+.orion-schneiderelectric:before {
+    content: "\f1d7";
+}
+.orion-scikitlearn:before {
+    content: "\f1d8";
+}
+.orion-scipy:before {
+    content: "\f1d9";
+}
+.orion-scopus:before {
+    content: "\f1da";
+}
+.orion-scpfoundation:before {
+    content: "\f1db";
+}
+.orion-scratch:before {
+    content: "\f1dc";
+}
+.orion-screencastify:before {
+    content: "\f1dd";
+}
+.orion-scribd:before {
+    content: "\f1de";
+}
+.orion-scrimba:before {
+    content: "\f1df";
+}
+.orion-scrollreveal:before {
+    content: "\f1e0";
+}
+.orion-scrumalliance:before {
+    content: "\f1e1";
+}
+.orion-scrutinizerci:before {
+    content: "\f1e2";
+}
+.orion-seagate:before {
+    content: "\f1e3";
+}
+.orion-seat:before {
+    content: "\f1e4";
+}
+.orion-sefaria:before {
+    content: "\f1e5";
+}
+.orion-sega:before {
+    content: "\f1e6";
+}
+.orion-selenium:before {
+    content: "\f1e7";
+}
+.orion-sellfy:before {
+    content: "\f1e8";
+}
+.orion-semanticrelease:before {
+    content: "\f1e9";
+}
+.orion-semanticuireact:before {
+    content: "\f1ea";
+}
+.orion-semanticweb:before {
+    content: "\f1eb";
+}
+.orion-semaphoreci:before {
+    content: "\f1ec";
+}
+.orion-semver:before {
+    content: "\f1ed";
+}
+.orion-sencha:before {
+    content: "\f1ee";
+}
+.orion-sennheiser:before {
+    content: "\f1ef";
+}
+.orion-sensu:before {
+    content: "\f1f0";
+}
+.orion-sentry:before {
+    content: "\f1f1";
+}
+.orion-sepa:before {
+    content: "\f1f2";
+}
+.orion-sequelize:before {
+    content: "\f1f3";
+}
+.orion-serverfault:before {
+    content: "\f1f4";
+}
+.orion-serverless:before {
+    content: "\f1f5";
+}
+.orion-sfml:before {
+    content: "\f1f6";
+}
+.orion-shadow:before {
+    content: "\f1f7";
+}
+.orion-shanghaimetro:before {
+    content: "\f1f8";
+}
+.orion-sharp:before {
+    content: "\f1f9";
+}
+.orion-shazam:before {
+    content: "\f1fa";
+}
+.orion-shell:before {
+    content: "\f1fb";
+}
+.orion-shelly:before {
+    content: "\f1fc";
+}
+.orion-shenzhenmetro:before {
+    content: "\f1fd";
+}
+.orion-shieldsdotio:before {
+    content: "\f1fe";
+}
+.orion-shikimori:before {
+    content: "\f1ff";
+}
+.orion-shopify:before {
+    content: "\f200";
+}
+.orion-shopware:before {
+    content: "\f201";
+}
+.orion-shotcut:before {
+    content: "\f202";
+}
+.orion-showpad:before {
+    content: "\f203";
+}
+.orion-showtime:before {
+    content: "\f204";
+}
+.orion-shutterstock:before {
+    content: "\f205";
+}
+.orion-siemens:before {
+    content: "\f206";
+}
+.orion-signal:before {
+    content: "\f207";
+}
+.orion-simkl:before {
+    content: "\f208";
+}
+.orion-simpleanalytics:before {
+    content: "\f209";
+}
+.orion-simpleicons:before {
+    content: "\f20a";
+}
+.orion-sinaweibo:before {
+    content: "\f20b";
+}
+.orion-singlestore:before {
+    content: "\f20c";
+}
+.orion-sitepoint:before {
+    content: "\f20d";
+}
+.orion-sketch:before {
+    content: "\f20e";
+}
+.orion-sketchfab:before {
+    content: "\f20f";
+}
+.orion-sketchup:before {
+    content: "\f210";
+}
+.orion-skillshare:before {
+    content: "\f211";
+}
+.orion-skoda:before {
+    content: "\f212";
+}
+.orion-sky:before {
+    content: "\f213";
+}
+.orion-skynet:before {
+    content: "\f214";
+}
+.orion-skypack:before {
+    content: "\f215";
+}
+.orion-skype:before {
+    content: "\f216";
+}
+.orion-skypeforbusiness:before {
+    content: "\f217";
+}
+.orion-slack:before {
+    content: "\f218";
+}
+.orion-slackware:before {
+    content: "\f219";
+}
+.orion-slashdot:before {
+    content: "\f21a";
+}
+.orion-slickpic:before {
+    content: "\f21b";
+}
+.orion-slides:before {
+    content: "\f21c";
+}
+.orion-slideshare:before {
+    content: "\f21d";
+}
+.orion-smart:before {
+    content: "\f21e";
+}
+.orion-smartthings:before {
+    content: "\f21f";
+}
+.orion-smashdotgg:before {
+    content: "\f220";
+}
+.orion-smashingmagazine:before {
+    content: "\f221";
+}
+.orion-smrt:before {
+    content: "\f222";
+}
+.orion-smugmug:before {
+    content: "\f223";
+}
+.orion-snapchat:before {
+    content: "\f224";
+}
+.orion-snapcraft:before {
+    content: "\f225";
+}
+.orion-snowflake:before {
+    content: "\f226";
+}
+.orion-snowpack:before {
+    content: "\f227";
+}
+.orion-snyk:before {
+    content: "\f228";
+}
+.orion-socialblade:before {
+    content: "\f229";
+}
+.orion-society6:before {
+    content: "\f22a";
+}
+.orion-socketdotio:before {
+    content: "\f22b";
+}
+.orion-sogou:before {
+    content: "\f22c";
+}
+.orion-solid:before {
+    content: "\f22d";
+}
+.orion-solidity:before {
+    content: "\f22e";
+}
+.orion-sololearn:before {
+    content: "\f22f";
+}
+.orion-solus:before {
+    content: "\f230";
+}
+.orion-sonarcloud:before {
+    content: "\f231";
+}
+.orion-sonarlint:before {
+    content: "\f232";
+}
+.orion-sonarqube:before {
+    content: "\f233";
+}
+.orion-sonarsource:before {
+    content: "\f234";
+}
+.orion-songkick:before {
+    content: "\f235";
+}
+.orion-songoda:before {
+    content: "\f236";
+}
+.orion-sonicwall:before {
+    content: "\f237";
+}
+.orion-sonos:before {
+    content: "\f238";
+}
+.orion-sony:before {
+    content: "\f239";
+}
+.orion-soundcloud:before {
+    content: "\f23a";
+}
+.orion-sourceengine:before {
+    content: "\f23b";
+}
+.orion-sourceforge:before {
+    content: "\f23c";
+}
+.orion-sourcegraph:before {
+    content: "\f23d";
+}
+.orion-sourcetree:before {
+    content: "\f23e";
+}
+.orion-southwestairlines:before {
+    content: "\f23f";
+}
+.orion-spacemacs:before {
+    content: "\f240";
+}
+.orion-spacex:before {
+    content: "\f241";
+}
+.orion-sparkar:before {
+    content: "\f242";
+}
+.orion-sparkasse:before {
+    content: "\f243";
+}
+.orion-sparkfun:before {
+    content: "\f244";
+}
+.orion-sparkpost:before {
+    content: "\f245";
+}
+.orion-spdx:before {
+    content: "\f246";
+}
+.orion-speakerdeck:before {
+    content: "\f247";
+}
+.orion-spectrum:before {
+    content: "\f248";
+}
+.orion-speedtest:before {
+    content: "\f249";
+}
+.orion-spinnaker:before {
+    content: "\f24a";
+}
+.orion-spinrilla:before {
+    content: "\f24b";
+}
+.orion-splunk:before {
+    content: "\f24c";
+}
+.orion-spond:before {
+    content: "\f24d";
+}
+.orion-spotify:before {
+    content: "\f24e";
+}
+.orion-spotlight:before {
+    content: "\f24f";
+}
+.orion-spreadshirt:before {
+    content: "\f250";
+}
+.orion-spreaker:before {
+    content: "\f251";
+}
+.orion-spring_creators:before {
+    content: "\f252";
+}
+.orion-spring:before {
+    content: "\f253";
+}
+.orion-springboot:before {
+    content: "\f254";
+}
+.orion-springsecurity:before {
+    content: "\f255";
+}
+.orion-spyderide:before {
+    content: "\f256";
+}
+.orion-sqlite:before {
+    content: "\f257";
+}
+.orion-square:before {
+    content: "\f258";
+}
+.orion-squareenix:before {
+    content: "\f259";
+}
+.orion-squarespace:before {
+    content: "\f25a";
+}
+.orion-ssrn:before {
+    content: "\f25b";
+}
+.orion-stackbit:before {
+    content: "\f25c";
+}
+.orion-stackexchange:before {
+    content: "\f25d";
+}
+.orion-stackoverflow:before {
+    content: "\f25e";
+}
+.orion-stackpath:before {
+    content: "\f25f";
+}
+.orion-stackshare:before {
+    content: "\f260";
+}
+.orion-stadia:before {
+    content: "\f261";
+}
+.orion-staffbase:before {
+    content: "\f262";
+}
+.orion-starbucks:before {
+    content: "\f263";
+}
+.orion-starlingbank:before {
+    content: "\f264";
+}
+.orion-starship:before {
+    content: "\f265";
+}
+.orion-startrek:before {
+    content: "\f266";
+}
+.orion-starz:before {
+    content: "\f267";
+}
+.orion-statamic:before {
+    content: "\f268";
+}
+.orion-statuspage:before {
+    content: "\f269";
+}
+.orion-statuspal:before {
+    content: "\f26a";
+}
+.orion-steam:before {
+    content: "\f26b";
+}
+.orion-steamdb:before {
+    content: "\f26c";
+}
+.orion-steamworks:before {
+    content: "\f26d";
+}
+.orion-steelseries:before {
+    content: "\f26e";
+}
+.orion-steem:before {
+    content: "\f26f";
+}
+.orion-steemit:before {
+    content: "\f270";
+}
+.orion-steinberg:before {
+    content: "\f271";
+}
+.orion-stellar:before {
+    content: "\f272";
+}
+.orion-stencyl:before {
+    content: "\f273";
+}
+.orion-stimulus:before {
+    content: "\f274";
+}
+.orion-stitcher:before {
+    content: "\f275";
+}
+.orion-stmicroelectronics:before {
+    content: "\f276";
+}
+.orion-stopstalk:before {
+    content: "\f277";
+}
+.orion-storyblok:before {
+    content: "\f278";
+}
+.orion-storybook:before {
+    content: "\f279";
+}
+.orion-strapi:before {
+    content: "\f27a";
+}
+.orion-strava:before {
+    content: "\f27b";
+}
+.orion-streamlit:before {
+    content: "\f27c";
+}
+.orion-stripe:before {
+    content: "\f27d";
+}
+.orion-strongswan:before {
+    content: "\f27e";
+}
+.orion-stubhub:before {
+    content: "\f27f";
+}
+.orion-styledcomponents:before {
+    content: "\f280";
+}
+.orion-stylelint:before {
+    content: "\f281";
+}
+.orion-styleshare:before {
+    content: "\f282";
+}
+.orion-stylus:before {
+    content: "\f283";
+}
+.orion-subaru:before {
+    content: "\f284";
+}
+.orion-sublimetext:before {
+    content: "\f285";
+}
+.orion-substack:before {
+    content: "\f286";
+}
+.orion-subversion:before {
+    content: "\f287";
+}
+.orion-suckless:before {
+    content: "\f288";
+}
+.orion-sumologic:before {
+    content: "\f289";
+}
+.orion-supabase:before {
+    content: "\f28a";
+}
+.orion-superuser:before {
+    content: "\f28b";
+}
+.orion-surveymonkey:before {
+    content: "\f28c";
+}
+.orion-suse:before {
+    content: "\f28d";
+}
+.orion-suzuki:before {
+    content: "\f28e";
+}
+.orion-svelte:before {
+    content: "\f28f";
+}
+.orion-svg:before {
+    content: "\f290";
+}
+.orion-svgo:before {
+    content: "\f291";
+}
+.orion-swagger:before {
+    content: "\f292";
+}
+.orion-swarm:before {
+    content: "\f293";
+}
+.orion-swc:before {
+    content: "\f294";
+}
+.orion-swift:before {
+    content: "\f295";
+}
+.orion-swiggy:before {
+    content: "\f296";
+}
+.orion-swiper:before {
+    content: "\f297";
+}
+.orion-symantec:before {
+    content: "\f298";
+}
+.orion-symfony:before {
+    content: "\f299";
+}
+.orion-symphony:before {
+    content: "\f29a";
+}
+.orion-sympy:before {
+    content: "\f29b";
+}
+.orion-synology:before {
+    content: "\f29c";
+}
+.orion-tableau:before {
+    content: "\f29d";
+}
+.orion-tado:before {
+    content: "\f29e";
+}
+.orion-tails:before {
+    content: "\f29f";
+}
+.orion-tailwindcss:before {
+    content: "\f2a0";
+}
+.orion-talend:before {
+    content: "\f2a1";
+}
+.orion-talenthouse:before {
+    content: "\f2a2";
+}
+.orion-tampermonkey:before {
+    content: "\f2a3";
+}
+.orion-taobao:before {
+    content: "\f2a4";
+}
+.orion-tapas:before {
+    content: "\f2a5";
+}
+.orion-target:before {
+    content: "\f2a6";
+}
+.orion-tasmota:before {
+    content: "\f2a7";
+}
+.orion-tata:before {
+    content: "\f2a8";
+}
+.orion-tauri:before {
+    content: "\f2a9";
+}
+.orion-taxbuzz:before {
+    content: "\f2aa";
+}
+.orion-teamcity:before {
+    content: "\f2ab";
+}
+.orion-teamspeak:before {
+    content: "\f2ac";
+}
+.orion-teamviewer:before {
+    content: "\f2ad";
+}
+.orion-ted:before {
+    content: "\f2ae";
+}
+.orion-teespring:before {
+    content: "\f2af";
+}
+.orion-tekton:before {
+    content: "\f2b0";
+}
+.orion-tele5:before {
+    content: "\f2b1";
+}
+.orion-telegram:before {
+    content: "\f2b2";
+}
+.orion-telegraph:before {
+    content: "\f2b3";
+}
+.orion-temporal:before {
+    content: "\f2b4";
+}
+.orion-tencentqq:before {
+    content: "\f2b5";
+}
+.orion-tensorflow:before {
+    content: "\f2b6";
+}
+.orion-teradata:before {
+    content: "\f2b7";
+}
+.orion-teratail:before {
+    content: "\f2b8";
+}
+.orion-terraform:before {
+    content: "\f2b9";
+}
+.orion-tesco:before {
+    content: "\f2ba";
+}
+.orion-tesla:before {
+    content: "\f2bb";
+}
+.orion-testcafe:before {
+    content: "\f2bc";
+}
+.orion-testin:before {
+    content: "\f2bd";
+}
+.orion-testinglibrary:before {
+    content: "\f2be";
+}
+.orion-tether:before {
+    content: "\f2bf";
+}
+.orion-textpattern:before {
+    content: "\f2c0";
+}
+.orion-thealgorithms:before {
+    content: "\f2c1";
+}
+.orion-theconversation:before {
+    content: "\f2c2";
+}
+.orion-theirishtimes:before {
+    content: "\f2c3";
+}
+.orion-themighty:before {
+    content: "\f2c4";
+}
+.orion-themodelsresource:before {
+    content: "\f2c5";
+}
+.orion-themoviedatabase:before {
+    content: "\f2c6";
+}
+.orion-thenorthface:before {
+    content: "\f2c7";
+}
+.orion-theregister:before {
+    content: "\f2c8";
+}
+.orion-thesoundsresource:before {
+    content: "\f2c9";
+}
+.orion-thespritersresource:before {
+    content: "\f2ca";
+}
+.orion-thewashingtonpost:before {
+    content: "\f2cb";
+}
+.orion-thingiverse:before {
+    content: "\f2cc";
+}
+.orion-thinkpad:before {
+    content: "\f2cd";
+}
+.orion-threadless:before {
+    content: "\f2ce";
+}
+.orion-threedotjs:before {
+    content: "\f2cf";
+}
+.orion-threema:before {
+    content: "\f2d0";
+}
+.orion-thumbtack:before {
+    content: "\f2d1";
+}
+.orion-thunderbird:before {
+    content: "\f2d2";
+}
+.orion-thymeleaf:before {
+    content: "\f2d3";
+}
+.orion-ticketmaster:before {
+    content: "\f2d4";
+}
+.orion-tidal:before {
+    content: "\f2d5";
+}
+.orion-tide:before {
+    content: "\f2d6";
+}
+.orion-tietoevry:before {
+    content: "\f2d7";
+}
+.orion-tiktok:before {
+    content: "\f2d8";
+}
+.orion-tile:before {
+    content: "\f2d9";
+}
+.orion-timescale:before {
+    content: "\f2da";
+}
+.orion-tinder:before {
+    content: "\f2db";
+}
+.orion-tinyletter:before {
+    content: "\f2dc";
+}
+.orion-tmobile:before {
+    content: "\f2dd";
+}
+.orion-tmux:before {
+    content: "\f2de";
+}
+.orion-todoist:before {
+    content: "\f2df";
+}
+.orion-toggl:before {
+    content: "\f2e0";
+}
+.orion-tokyometro:before {
+    content: "\f2e1";
+}
+.orion-tomorrowland:before {
+    content: "\f2e2";
+}
+.orion-topcoder:before {
+    content: "\f2e3";
+}
+.orion-toptal:before {
+    content: "\f2e4";
+}
+.orion-torbrowser:before {
+    content: "\f2e5";
+}
+.orion-torproject:before {
+    content: "\f2e6";
+}
+.orion-toshiba:before {
+    content: "\f2e7";
+}
+.orion-toyota:before {
+    content: "\f2e8";
+}
+.orion-tplink:before {
+    content: "\f2e9";
+}
+.orion-tqdm:before {
+    content: "\f2ea";
+}
+.orion-traefikmesh:before {
+    content: "\f2eb";
+}
+.orion-trainerroad:before {
+    content: "\f2ec";
+}
+.orion-trakt:before {
+    content: "\f2ed";
+}
+.orion-transferwise:before {
+    content: "\f2ee";
+}
+.orion-transportforireland:before {
+    content: "\f2ef";
+}
+.orion-transportforlondon:before {
+    content: "\f2f0";
+}
+.orion-travisci:before {
+    content: "\f2f1";
+}
+.orion-treehouse:before {
+    content: "\f2f2";
+}
+.orion-trello:before {
+    content: "\f2f3";
+}
+.orion-trendmicro:before {
+    content: "\f2f4";
+}
+.orion-treyarch:before {
+    content: "\f2f5";
+}
+.orion-triller:before {
+    content: "\f2f6";
+}
+.orion-trino:before {
+    content: "\f2f7";
+}
+.orion-tripadvisor:before {
+    content: "\f2f8";
+}
+.orion-tripdotcom:before {
+    content: "\f2f9";
+}
+.orion-trove:before {
+    content: "\f2fa";
+}
+.orion-truenas:before {
+    content: "\f2fb";
+}
+.orion-trulia:before {
+    content: "\f2fc";
+}
+.orion-trustedshops:before {
+    content: "\f2fd";
+}
+.orion-trustpilot:before {
+    content: "\f2fe";
+}
+.orion-tryhackme:before {
+    content: "\f2ff";
+}
+.orion-tryitonline:before {
+    content: "\f300";
+}
+.orion-tsnode:before {
+    content: "\f301";
+}
+.orion-tubi:before {
+    content: "\f302";
+}
+.orion-tui:before {
+    content: "\f303";
+}
+.orion-tumblr:before {
+    content: "\f304";
+}
+.orion-tunein:before {
+    content: "\f305";
+}
+.orion-turbosquid:before {
+    content: "\f306";
+}
+.orion-turkishairlines:before {
+    content: "\f307";
+}
+.orion-tutanota:before {
+    content: "\f308";
+}
+.orion-tvtime:before {
+    content: "\f309";
+}
+.orion-twilio:before {
+    content: "\f30a";
+}
+.orion-twitch:before {
+    content: "\f30b";
+}
+.orion-twitter:before {
+    content: "\f30c";
+}
+.orion-twoo:before {
+    content: "\f30d";
+}
+.orion-typeform:before {
+    content: "\f30e";
+}
+.orion-typescript:before {
+    content: "\f30f";
+}
+.orion-typo3:before {
+    content: "\f310";
+}
+.orion-uber:before {
+    content: "\f311";
+}
+.orion-ubereats:before {
+    content: "\f312";
+}
+.orion-ubiquiti:before {
+    content: "\f313";
+}
+.orion-ubisoft:before {
+    content: "\f314";
+}
+.orion-ublockorigin:before {
+    content: "\f315";
+}
+.orion-ubuntu:before {
+    content: "\f316";
+}
+.orion-udacity:before {
+    content: "\f317";
+}
+.orion-udemy:before {
+    content: "\f318";
+}
+.orion-ufc:before {
+    content: "\f319";
+}
+.orion-uikit:before {
+    content: "\f31a";
+}
+.orion-ulule:before {
+    content: "\f31b";
+}
+.orion-umbraco:before {
+    content: "\f31c";
+}
+.orion-unacademy:before {
+    content: "\f31d";
+}
+.orion-underarmour:before {
+    content: "\f31e";
+}
+.orion-underscoredotjs:before {
+    content: "\f31f";
+}
+.orion-undertale:before {
+    content: "\f320";
+}
+.orion-unicode:before {
+    content: "\f321";
+}
+.orion-unilever:before {
+    content: "\f322";
+}
+.orion-unitedairlines:before {
+    content: "\f323";
+}
+.orion-unity:before {
+    content: "\f324";
+}
+.orion-unraid:before {
+    content: "\f325";
+}
+.orion-unrealengine:before {
+    content: "\f326";
+}
+.orion-unsplash:before {
+    content: "\f327";
+}
+.orion-untangle:before {
+    content: "\f328";
+}
+.orion-untappd:before {
+    content: "\f329";
+}
+.orion-upcloud:before {
+    content: "\f32a";
+}
+.orion-uplabs:before {
+    content: "\f32b";
+}
+.orion-uploaded:before {
+    content: "\f32c";
+}
+.orion-ups:before {
+    content: "\f32d";
+}
+.orion-uptobox:before {
+    content: "\f32e";
+}
+.orion-upwork:before {
+    content: "\f32f";
+}
+.orion-usps:before {
+    content: "\f330";
+}
+.orion-v:before {
+    content: "\f331";
+}
+.orion-v8:before {
+    content: "\f332";
+}
+.orion-vaadin:before {
+    content: "\f333";
+}
+.orion-vagrant:before {
+    content: "\f334";
+}
+.orion-valve:before {
+    content: "\f335";
+}
+.orion-vapor:before {
+    content: "\f336";
+}
+.orion-vault:before {
+    content: "\f337";
+}
+.orion-vauxhall:before {
+    content: "\f338";
+}
+.orion-vbulletin:before {
+    content: "\f339";
+}
+.orion-vectorlogozone:before {
+    content: "\f33a";
+}
+.orion-vectorworks:before {
+    content: "\f33b";
+}
+.orion-veeam:before {
+    content: "\f33c";
+}
+.orion-veepee:before {
+    content: "\f33d";
+}
+.orion-velog:before {
+    content: "\f33e";
+}
+.orion-venmo:before {
+    content: "\f33f";
+}
+.orion-vercel:before {
+    content: "\f340";
+}
+.orion-verdaccio:before {
+    content: "\f341";
+}
+.orion-veritas:before {
+    content: "\f342";
+}
+.orion-verizon:before {
+    content: "\f343";
+}
+.orion-vfairs:before {
+    content: "\f344";
+}
+.orion-viadeo:before {
+    content: "\f345";
+}
+.orion-viber:before {
+    content: "\f346";
+}
+.orion-vim:before {
+    content: "\f347";
+}
+.orion-vimeo:before {
+    content: "\f348";
+}
+.orion-vimeolivestream:before {
+    content: "\f349";
+}
+.orion-virgin:before {
+    content: "\f34a";
+}
+.orion-virtualbox:before {
+    content: "\f34b";
+}
+.orion-virustotal:before {
+    content: "\f34c";
+}
+.orion-visa:before {
+    content: "\f34d";
+}
+.orion-visualstudio:before {
+    content: "\f34e";
+}
+.orion-visualstudiocode:before {
+    content: "\f34f";
+}
+.orion-vite:before {
+    content: "\f350";
+}
+.orion-vivaldi:before {
+    content: "\f351";
+}
+.orion-vivino:before {
+    content: "\f352";
+}
+.orion-vk:before {
+    content: "\f353";
+}
+.orion-vlcmediaplayer:before {
+    content: "\f354";
+}
+.orion-vmware:before {
+    content: "\f355";
+}
+.orion-vodafone:before {
+    content: "\f356";
+}
+.orion-volkswagen:before {
+    content: "\f357";
+}
+.orion-volvo:before {
+    content: "\f358";
+}
+.orion-vonage:before {
+    content: "\f359";
+}
+.orion-vox:before {
+    content: "\f35a";
+}
+.orion-vsco:before {
+    content: "\f35b";
+}
+.orion-vtex:before {
+    content: "\f35c";
+}
+.orion-vuedotjs:before {
+    content: "\f35d";
+}
+.orion-vuetify:before {
+    content: "\f35e";
+}
+.orion-vulkan:before {
+    content: "\f35f";
+}
+.orion-vultr:before {
+    content: "\f360";
+}
+.orion-w3c:before {
+    content: "\f361";
+}
+.orion-wagtail:before {
+    content: "\f362";
+}
+.orion-wakatime:before {
+    content: "\f363";
+}
+.orion-walkman:before {
+    content: "\f364";
+}
+.orion-wallabag:before {
+    content: "\f365";
+}
+.orion-walmart:before {
+    content: "\f366";
+}
+.orion-wappalyzer:before {
+    content: "\f367";
+}
+.orion-warnerbros:before {
+    content: "\f368";
+}
+.orion-wattpad:before {
+    content: "\f369";
+}
+.orion-waze:before {
+    content: "\f36a";
+}
+.orion-wearos:before {
+    content: "\f36b";
+}
+.orion-weasyl:before {
+    content: "\f36c";
+}
+.orion-web3dotjs:before {
+    content: "\f36d";
+}
+.orion-webassembly:before {
+    content: "\f36e";
+}
+.orion-webauthn:before {
+    content: "\f36f";
+}
+.orion-webcomponentsdotorg:before {
+    content: "\f370";
+}
+.orion-webdriverio:before {
+    content: "\f371";
+}
+.orion-webflow:before {
+    content: "\f372";
+}
+.orion-webgl:before {
+    content: "\f373";
+}
+.orion-webhint:before {
+    content: "\f374";
+}
+.orion-weblate:before {
+    content: "\f375";
+}
+.orion-webmin:before {
+    content: "\f376";
+}
+.orion-webmoney:before {
+    content: "\f377";
+}
+.orion-webpack:before {
+    content: "\f378";
+}
+.orion-webrtc:before {
+    content: "\f379";
+}
+.orion-webstorm:before {
+    content: "\f37a";
+}
+.orion-webtoon:before {
+    content: "\f37b";
+}
+.orion-wechat:before {
+    content: "\f37c";
+}
+.orion-wegame:before {
+    content: "\f37d";
+}
+.orion-weightsandbiases:before {
+    content: "\f37e";
+}
+.orion-welcometothejungle:before {
+    content: "\f37f";
+}
+.orion-wemo:before {
+    content: "\f380";
+}
+.orion-westerndigital:before {
+    content: "\f381";
+}
+.orion-wetransfer:before {
+    content: "\f382";
+}
+.orion-whatsapp:before {
+    content: "\f383";
+}
+.orion-wheniwork:before {
+    content: "\f384";
+}
+.orion-whitesource:before {
+    content: "\f385";
+}
+.orion-wii:before {
+    content: "\f386";
+}
+.orion-wiiu:before {
+    content: "\f387";
+}
+.orion-wikidata:before {
+    content: "\f388";
+}
+.orion-wikidotjs:before {
+    content: "\f389";
+}
+.orion-wikimediacommons:before {
+    content: "\f38a";
+}
+.orion-wikipedia:before {
+    content: "\f38b";
+}
+.orion-wikiquote:before {
+    content: "\f38c";
+}
+.orion-wikivoyage:before {
+    content: "\f38d";
+}
+.orion-winamp:before {
+    content: "\f38e";
+}
+.orion-windicss:before {
+    content: "\f38f";
+}
+.orion-windows:before {
+    content: "\f390";
+}
+.orion-windows95:before {
+    content: "\f391";
+}
+.orion-windowsterminal:before {
+    content: "\f392";
+}
+.orion-windowsxp:before {
+    content: "\f393";
+}
+.orion-winmate:before {
+    content: "\f394";
+}
+.orion-wipro:before {
+    content: "\f395";
+}
+.orion-wire:before {
+    content: "\f396";
+}
+.orion-wireguard:before {
+    content: "\f397";
+}
+.orion-wireshark:before {
+    content: "\f398";
+}
+.orion-wish:before {
+    content: "\f399";
+}
+.orion-wistia:before {
+    content: "\f39a";
+}
+.orion-wix:before {
+    content: "\f39b";
+}
+.orion-wizzair:before {
+    content: "\f39c";
+}
+.orion-wolfram:before {
+    content: "\f39d";
+}
+.orion-wolframlanguage:before {
+    content: "\f39e";
+}
+.orion-wolframmathematica:before {
+    content: "\f39f";
+}
+.orion-woo:before {
+    content: "\f3a0";
+}
+.orion-woocommerce:before {
+    content: "\f3a1";
+}
+.orion-wordpress:before {
+    content: "\f3a2";
+}
+.orion-workplace:before {
+    content: "\f3a3";
+}
+.orion-worldhealthorganization:before {
+    content: "\f3a4";
+}
+.orion-wpengine:before {
+    content: "\f3a5";
+}
+.orion-wprocket:before {
+    content: "\f3a6";
+}
+.orion-writedotas:before {
+    content: "\f3a7";
+}
+.orion-wwe:before {
+    content: "\f3a8";
+}
+.orion-wwise:before {
+    content: "\f3a9";
+}
+.orion-xamarin:before {
+    content: "\f3aa";
+}
+.orion-xaml:before {
+    content: "\f3ab";
+}
+.orion-xampp:before {
+    content: "\f3ac";
+}
+.orion-xbox:before {
+    content: "\f3ad";
+}
+.orion-xcode:before {
+    content: "\f3ae";
+}
+.orion-xdadevelopers:before {
+    content: "\f3af";
+}
+.orion-xdotorg:before {
+    content: "\f3b0";
+}
+.orion-xero:before {
+    content: "\f3b1";
+}
+.orion-xfce:before {
+    content: "\f3b2";
+}
+.orion-xiaomi:before {
+    content: "\f3b3";
+}
+.orion-xilinx:before {
+    content: "\f3b4";
+}
+.orion-xing:before {
+    content: "\f3b5";
+}
+.orion-xmpp:before {
+    content: "\f3b6";
+}
+.orion-xrp:before {
+    content: "\f3b7";
+}
+.orion-xsplit:before {
+    content: "\f3b8";
+}
+.orion-xstate:before {
+    content: "\f3b9";
+}
+.orion-yahoo:before {
+    content: "\f3ba";
+}
+.orion-yale:before {
+    content: "\f3bb";
+}
+.orion-yamahacorporation:before {
+    content: "\f3bc";
+}
+.orion-yamahamotorcorporation:before {
+    content: "\f3bd";
+}
+.orion-yammer:before {
+    content: "\f3be";
+}
+.orion-yarn:before {
+    content: "\f3bf";
+}
+.orion-ycombinator:before {
+    content: "\f3c0";
+}
+.orion-yelp:before {
+    content: "\f3c1";
+}
+.orion-yoast:before {
+    content: "\f3c2";
+}
+.orion-yourtraveldottv:before {
+    content: "\f3c3";
+}
+.orion-youtube:before {
+    content: "\f3c4";
+}
+.orion-youtubegaming:before {
+    content: "\f3c5";
+}
+.orion-youtubemusic:before {
+    content: "\f3c6";
+}
+.orion-youtubestudio:before {
+    content: "\f3c7";
+}
+.orion-youtubetv:before {
+    content: "\f3c8";
+}
+.orion-zalando:before {
+    content: "\f3c9";
+}
+.orion-zalo:before {
+    content: "\f3ca";
+}
+.orion-zapier:before {
+    content: "\f3cb";
+}
+.orion-zcash:before {
+    content: "\f3cc";
+}
+.orion-zdf:before {
+    content: "\f3cd";
+}
+.orion-zelle:before {
+    content: "\f3ce";
+}
+.orion-zend:before {
+    content: "\f3cf";
+}
+.orion-zendesk:before {
+    content: "\f3d0";
+}
+.orion-zendframework:before {
+    content: "\f3d1";
+}
+.orion-zenn:before {
+    content: "\f3d2";
+}
+.orion-zenodo:before {
+    content: "\f3d3";
+}
+.orion-zerodha:before {
+    content: "\f3d4";
+}
+.orion-zeromq:before {
+    content: "\f3d5";
+}
+.orion-zerply:before {
+    content: "\f3d6";
+}
+.orion-zhihu:before {
+    content: "\f3d7";
+}
+.orion-zig:before {
+    content: "\f3d8";
+}
+.orion-zigbee:before {
+    content: "\f3d9";
+}
+.orion-zillow:before {
+    content: "\f3da";
+}
+.orion-zingat:before {
+    content: "\f3db";
+}
+.orion-zoho:before {
+    content: "\f3dc";
+}
+.orion-zoiper:before {
+    content: "\f3dd";
+}
+.orion-zomato:before {
+    content: "\f3de";
+}
+.orion-zoom:before {
+    content: "\f3df";
+}
+.orion-zorin:before {
+    content: "\f3e0";
+}
+.orion-zotero:before {
+    content: "\f3e1";
+}
+.orion-zulip:before {
+    content: "\f3e2";
+}
+.orion-zwave:before {
+    content: "\f3e3";
+}
+.orion-zyte:before {
+    content: "\f3e4";
+}
